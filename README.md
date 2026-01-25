@@ -43,7 +43,11 @@ Scince I saw a GDC Talk from Sea of Thieves a few years back I am really interes
 
   <img align="right" width="500"
        src="https://github.com/user-attachments/assets/d6ee8bee-d9a4-4b13-a037-41ea51970b74"/>
-  I wanted to create a tool for fast and easy editing of an asset that has variation. Because I really enjoy shooters, the first thing that came to my mind was a magazine generator to create different magazines that vary in size and shape. The tool handles everything including the baking process of highpoly and lowpoly and the unwrapping. Together with procedural materials in substance designer it is possible to create interesting variation. The finished assets are most likely better suited for a third person game that needs a lot of variation, because just with procedural generation they are missing a bit of uniqueness.
+  I wanted to create a tool for fast and easy editing of an asset with multiple variations. Because I really enjoy shooters, the first idea that came to my mind was a magazine generator that creates magazines with different sizes and shapes.
+
+The tool handles the entire pipeline, including high-poly to low-poly baking and UV unwrapping. Combined with procedural materials in Substance Designer, it is possible to create a wide range of interesting variations.
+
+The finished assets are best suited for third-person games that require a large amount of variation. Since the assets are generated procedurally, they can lack a bit of uniqueness compared to fully hand-crafted models.
   <img align="left" width="300"
        src="https://github.com/user-attachments/assets/c79f7dce-8564-4e0c-9dc2-4a329833f4f3"/>
 
