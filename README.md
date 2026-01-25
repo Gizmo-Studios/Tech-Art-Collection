@@ -18,10 +18,10 @@ Scince I saw a GDC Talk from Sea of Thieves a few years back I am really interes
 <div>
   <h3> 🧱 Hotspot Texturing:</h3>
 
-  <img align="right" width="400"
+  <img align="right" width="500"
        src="https://github.com/user-attachments/assets/32e16109-f9df-4014-8d49-13a9cb204f07"/>
 
-  <img align="right" width="400"
+  <img align="right" width="500"
        src="https://github.com/user-attachments/assets/a8f6d0e5-24ad-4fe7-bac5-cac53aaf494b"/>
 
   Inspired by Martin Donald’s Hotspot Texturing example, I wanted to try the approach myself. I created a small Houdini asset that takes a mesh as input and either unwraps it automatically based on surface angles or allows the use of a handmade unwrap.
@@ -38,10 +38,10 @@ Scince I saw a GDC Talk from Sea of Thieves a few years back I am really interes
 <div>
   <h3> 🔫 PCG - Magazine:</h3>
 
-  <img align="right" width="400"
+  <img align="right" width="500"
        src="https://github.com/user-attachments/assets/3d2f5b2a-0016-4220-b525-3c071b24872c"/>
 
-  <img align="right" width="400"
+  <img align="right" width="500"
        src="https://github.com/user-attachments/assets/d6ee8bee-d9a4-4b13-a037-41ea51970b74"/>
   I wanted to create a tool for fast and easy editing of an asset that has variation. Because I really enjoy shooters, the first thing that came to my mind was a magazine generator to create different magazines that vary in size and shape. The tool handles everything including the baking process of highpoly and lowpoly and the unwrapping. Together with procedural materials in substance designer it is possible to create interesting variation. The finished assets are most likely better suited for a third person game that needs a lot of variation, because just with procedural generation they are missing a bit of uniqueness.
   <img align="left" width="300"
