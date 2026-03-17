@@ -59,8 +59,8 @@ The finished assets are best suited for third-person games that require a large 
  <h3> 🐀 VFX - Rats:</h3>
   <img align="right" width="500"
        src="https://github.com/user-attachments/assets/68123a63-06a4-4ba9-9120-59381a408e4c"/>
-  A really small evening project where recreated the shader animation from "torch in sky"(Unity) in Unreal with Niagara and a Material where I animated the vertex offsets.
-
+  A really small evening project where recreated the shader animation from "torch in sky"(Unity) in Unreal with Niagara and a Material where I animated the vertex offsets. The main idea is to have a lot of animated creatures on screen without the need of skeletal meshes to save performance.
+  </br>
 First I made the whole rat model go up and down with a sine wave. Then, by using math, I split the Rat into 3 seperate regions. The front legs, the back legs and the tail. The Legs got extra movement in the facing direction of the rat and an offset between the front and back legs. The tail uses the same up and down wave from the whole body just a bit more powerful to put some emphasize on it.
 The <a href="https://sketchfab.com/3d-models/rat-801d26d47ebf41baa17055287a82da08"> rat model/textures </a> are from sketchfab, but I needed to add a 2nd UV channel for the shader, so its possible to seperate parts. The same is possible with vertex color but a UV is easier to understand and use in this case.
   <img align="left" width="1000"
